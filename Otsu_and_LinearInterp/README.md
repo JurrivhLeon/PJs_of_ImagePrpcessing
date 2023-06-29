@@ -24,7 +24,7 @@ change the content of ```${...}```. For example:
 python adapt_thresholding.py -i images/rimbaud.jpg -s 22
 ```
 
-Some Examples:<br>
+Some Examples are shown below:<br>
 
 <p align="center">
   <img src='images/far451.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ change the content of ```${...}```. For example:
 python linear_interp.py -i images/hotel.jpg -t 8
 ```
 
-Some examples:<br>
+Some examples are shown below:<br>
 
 <p align="center">
   <img src='images/bathroom.jpg' width='360'/> &nbsp;&nbsp;&nbsp;
