@@ -24,9 +24,9 @@ python smooth.py -i images/suomi.jpg -s 3 -v 9.0
 Example:<br>
 
 <p align="center">
-  <img src='images/suomi.jpg' width='270'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/suomi_7x7_81.0_gaussian_smoothed.jpg' width='270'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/suomi_5x5_median_smoothed.jpg' width='270'/>
+  <img src='images/suomi.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_7x7_81.0_gaussian_smoothed.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_5x5_median_smoothed.jpg' width='300'/>
 </p>
 
 To sharpen an image with Laplacian filter, run this command:
@@ -44,9 +44,9 @@ python sharpen_laplacian.py -i images/suomi.jpg -w 1.0
 Example:<br>
 
 <p align="center">
-  <img src='images/suomi.jpg' width='270'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/suomi_laplacian_filter.jpg' width='270'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/suomi_1.0_laplacian.jpg' width='270'/>
+  <img src='images/suomi.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_laplacian_filter.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_1.0_laplacian.jpg' width='300'/>
 </p>
 
 
@@ -63,4 +63,11 @@ python sharpen_highboost.py -i images/suomi.jpg -k 2.0
 ```
 
 Example:<br>
+
+<p align="center">
+  <img src='images/suomi.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_highboost_mask.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/suomi_1.0_highboost.jpg' width='300'/>
+</p>
+
 
