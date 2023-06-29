@@ -1,6 +1,6 @@
 # Free-Form Deformation (FFD)
 Follow this instruction to reproduce the result of my experiment.
-Set the work directory under the directory ${MY_DIR}, 
+Make sure this repo is under the directory ${MY_DIR}, 
 and ensure you have installed libraries listed below in your running environment:
 
 ```
@@ -14,17 +14,14 @@ Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.), ac
 
 Code files:
 
-``` transform.py```
-The main code file, which generate a transformed image according to given FFD. It includes functions of
+```transform.py``` is the main code file, which generate a transformed image according to given FFD. It includes functions of
 coordinate generation and bilinear interpolation. The transformed image is stored to the same folder of
 the original image.
 
-```ffd.py```
-It defines the object 'FFD', which is the main functional module for FFD. The method 'FFDinvtransformation'
+```ffd.py``` defines the object 'FFD', which is the main functional module for FFD. The method 'FFDinvtransformation'
 is used for compute the inverse FFD to be applied in interpolation.
 
-``` add_grid.py  ```
-An auxiliary module, which adds grid over an image. The grid points are the control points of FFD. 
+``` add_grid.py ``` is an auxiliary module, which adds grid over an image. The grid points are the control points of FFD. 
 You can visualize the deformation fields by transforming an image with grid.
 
 
