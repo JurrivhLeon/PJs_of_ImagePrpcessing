@@ -59,8 +59,7 @@ python add_grid.py -i images/cat.png
 
 ## Some Examples
 <figure class="half">
-  <img src='images/cat_grid.png'>
-  <img src='images/cat_grid_ffd_trans1.png'>
+  <img src='images/cat_grid.png'><img src='images/cat_grid_ffd_trans1.png'>
 </figure>
 
 ![avatar](images/cat_grid_ffd_trans1.png)
