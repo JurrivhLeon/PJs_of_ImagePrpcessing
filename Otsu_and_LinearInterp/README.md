@@ -11,7 +11,7 @@ Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.),
 and check if the current working directory is ${MY_DIR}. If not, change it to this directory.
 
 
-## Otsu Algorithm
+## Otsu Thresholding Algorithm
 To reproduce the adapt thresholding result, run this command:
 
 ```
@@ -25,6 +25,11 @@ python adapt_thresholding.py -i images/rimbaud.jpg -s 22
 ```
 
 Some Examples:<br>
+
+<p align="center">
+  <img src='images/far451.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/far451_45x45.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
+</p>
 
 
 ## Bilinear Interpolation
