@@ -53,12 +53,7 @@ python linear_interp.py -i images/hotel.jpg -t 8
 Some examples are shown below:<br>
 
 <p align="center">
-  <img src='images/bathroom.jpg' width='100%'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/bathroom_16x_interp.jpg'/> &nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
-  <img src='images/cake.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/cake_16x_interp.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/mdshow.png' width='100%'/>
 </p>
 
 
