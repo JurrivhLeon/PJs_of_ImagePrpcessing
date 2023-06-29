@@ -64,3 +64,13 @@ python add_grid.py -i images/cat.png
   <img src='images/cat_grid_ffd_trans2.png' width='250'/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='images/cat_grid_ffd_trans3.png' width='250'/>
 </p>
+<p align="center">
+  <img src='images/deGaulle.png' width='250'/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='images/deGaulle_ffd_trans1.png' width='250'/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='images/deGaulle_ffd_trans2.png' width='250'/>
+</p>
+<p align="center">
+  <img src='images/meisje_met_de_parel.png' width='250'/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='images/meisje_met_de_parel_ffd_trans3.png' width='250'/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='images/meisje_met_de_parel_ffd_trans4.png' width='250'/>
+</p>
