@@ -31,8 +31,8 @@ To transform an image by FFD, run following command:
 python transform.py -i ${IMAGE_DIR} -o ${OFFSET_DIR}
 ```
 
-Change ${IMAGE_DIR} to the directory of your input image.  The size of your input image is 513x513. Otherwise it will be resized to.
-Change ${OFFSET_DIR} to the directory of offset data.
+Change ```${IMAGE_DIR}``` to the directory of your input image.  The size of your input image is 513x513. Otherwise it will be resized to.
+Change ```${OFFSET_DIR}``` to the directory of offset data.
 The offset data of control points, as a 9x9x2 tensor, is stored in a text file. Its format is shown
 in our report. You can either use our test data, which is stored in ./data, or define your own data
 in terms of given format.
@@ -49,7 +49,7 @@ To add grid to an image, run following command:
 python add_grid.py -i ${IMAGE_DIR}
 ```
 
-Change ${IMAGE_DIR} to the directory of your input image.
+Change ```${IMAGE_DIR}``` to the directory of your input image.
 Please ensure the size of your input image is 513x513. Otherwise it will be resized to.
 Example:
 
