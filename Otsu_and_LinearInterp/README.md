@@ -28,7 +28,7 @@ Some Examples:<br>
 
 <p align="center">
   <img src='images/far451.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/far451_45x45.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/far451_45x45_bi.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
 </p>
 
 
