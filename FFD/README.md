@@ -1,4 +1,4 @@
-# Free-Form Deformation (FFD)
+# Project 7: Free-Form Deformation (FFD)
 Follow this instruction to reproduce the result of my experiment.
 Make sure this repo is under the directory ${MY_DIR}, 
 and ensure you have installed libraries listed below in your running environment:
