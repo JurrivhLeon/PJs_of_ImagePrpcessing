@@ -56,3 +56,6 @@ Example:
 ```
 python add_grid.py -i images/cat.png
 ```
+
+## Some Examples
+![avatar](images/cat_grid.png)
