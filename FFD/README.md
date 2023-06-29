@@ -59,9 +59,9 @@ python add_grid.py -i images/cat.png
 
 ## Some Examples
 
-<center class="half">
+<p align="center">
   <img src='images/cat_grid.png' width='250'/><img src='images/cat_grid_ffd_trans1.png' width='250'/>
-</center>
+</p>
 <center class="half">
   <img src='images/cat_grid_ffd_trans2.png' width='250'/><img src='images/cat_grid_ffd_trans3.png' width='250'/>
 </center>
