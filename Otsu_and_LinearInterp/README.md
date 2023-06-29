@@ -31,8 +31,8 @@ Some Examples:<br>
   <img src='images/far451_45x45_bi.jpg' width='250'/> &nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src='images/rimbaud.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
-  <img src='images/rimbaud_45x45_bi.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/rimbaud.jpg' width='360'/> &nbsp;&nbsp;&nbsp;
+  <img src='images/rimbaud_45x45_bi.jpg' width='360'/> &nbsp;&nbsp;&nbsp;
 </p>
 
 
