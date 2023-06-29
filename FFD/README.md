@@ -62,5 +62,8 @@ python add_grid.py -i images/cat.png
 <center class="half">
   <img src='images/cat_grid.png' width='250'/><img src='images/cat_grid_ffd_trans1.png' width='250'/>
 </center>
+<center class="half">
+  <img src='images/cat_grid_ffd_trans2.png' width='250'/><img src='images/cat_grid_ffd_trans3.png' width='250'/>
+</center>
 
 ![avatar](images/cat_grid_ffd_trans1.png)![avatar](images/cat_grid_ffd_trans2.png)![avatar](images/cat_grid_ffd_trans3.png)
