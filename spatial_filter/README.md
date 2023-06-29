@@ -35,7 +35,7 @@ To sharpen an image with Laplacian filter, run this command:
 python sharpen_laplacian.py -i ${IMAGE_DIR} [-w ${WEIGHT}]
 ```
 
-Change the content of ${...}, and content in brackets is optional. For example:
+Change the content of ```${...}```, and content in brackets is optional. For example:
 
 ```
 python sharpen_laplacian.py -i images/suomi.jpg -w 1.0
@@ -56,7 +56,7 @@ To sharpen an image with highboost, run this command:
 python sharpen_highboost.py -i ${IMAGE_DIR} [-k ${WEIGHT}]
 ```
 
-Change the content of ${...}, and content in brackets is optional. For example:
+Change the content of ```${...}```, and content in brackets is optional. For example:
 
 ```
 python sharpen_highboost.py -i images/suomi.jpg -k 2.0
