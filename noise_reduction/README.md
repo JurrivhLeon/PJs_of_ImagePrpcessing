@@ -24,9 +24,13 @@ python noise_gen.py  [-i ${IMAGE_DIR}]
 Change the content of ```${...}```, and content in brackets is optional. For example:
 
 ```
-python noise_gen.py -i images/heart.jpg
+python noise_gen.py -i images/zelenskyy.jpg
 ```
 
+Example
+<p>
+  <img src='images/zelenskyy.jpg'/>
+</p>
 
 To run the optimal notch filter, run this command:
 
@@ -37,7 +41,7 @@ python opt_notch.py [-i ${IMAGE_DIR}]
 Change the content of ```${...}```, and content in brackets is optional. For example:
 
 ```
-python opt_notch.py -i images/zelenskyy.jpg
+python opt_notch.py -i images/zelenskyy_interf.jpg
 ```
 
 Note that the parameters of notch pass filter need to be adjusted manually in line 99-100.
