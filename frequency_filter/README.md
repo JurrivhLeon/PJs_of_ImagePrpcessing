@@ -45,10 +45,10 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python freq_sharpen.py -i images/suomi.jpg -c 1 -d 100
 ```
 
-Example (Highpass filter: original-Laplacian-Gaussian)
+Example (Highpass filter: original-Laplacian-Highboost)
 
 <p>
-  <img src='images/suomi.jpg' width='300' /><img src='images/suomi_laplacian_sharpened.jpg' width='300'/><img src='images/suomi_highboost_sharpend.jpg' width='300'/>
+  <img src='images/suomi.jpg' width='300' /><img src='images/suomi_laplacian_sharpened.jpg' width='300'/><img src='images/suomi_highboost_sharpened.jpg' width='300'/>
 </p>
 
 
@@ -58,3 +58,8 @@ To reproduce the noise reduction result, run this command:
 ```
 python noise_reduction.py
 ```
+
+Example:
+<p>
+  <img src='images/Shepp-Logan.PNG' width='400'/><img src='images/Shepp-Logan_re.png' width='400'/>
+</p>
