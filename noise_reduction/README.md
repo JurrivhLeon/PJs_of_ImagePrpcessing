@@ -24,7 +24,7 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python noise_gen.py -i images/zelenskyy.jpg
 ```
 
-Example
+Example (Original - Gaussian Noise - Pepper-Salt Noise - Periodic Noise - White Noise (5 & 6))
 <p>
   <img src='images/zelenskyy.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_gn.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_pn.jpg' width='280'/>
 </p>
