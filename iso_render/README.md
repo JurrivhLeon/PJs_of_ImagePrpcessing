@@ -13,9 +13,9 @@ Run this command in the terminal:
 ```
 python iso_render.py
 ```
-The first window shows the isosurface of data before smoothing.
-The second window shows the isosurface of data after smoothing.
-You can interact with the render result by click and drag the mouse over the window.
+The first window shows the isosurface of data before smoothing. The second window shows the isosurface of data after smoothing. You can interact with the render result by click and drag the mouse over the window. 
+
+The default value of isosurface is 150. If you want to see isosurfaces of different numerical values, modify line 83 of ```iso_render.py```.
 
 Example: (iso = 150)
 <p>
