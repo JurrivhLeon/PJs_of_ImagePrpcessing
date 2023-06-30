@@ -10,7 +10,7 @@ nibabel==4.0.2
 vtk==9.2.2
 ```
 
-There are 8 projects in total. Codes of project 2 to 8 are updated to this repo.
+There are 8 projects in total. Codes of project 2 to 8 are updated to this repo.<br>
 Project 2: Otsu Thresholding and Linear Interpolation <br>
 Project 3: Spatial Filters <br>
 Project 4: Frequency Filters <br>
