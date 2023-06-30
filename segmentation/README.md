@@ -38,3 +38,8 @@ To apply morphological operations on the image in my example, run this command:
 ```
 python ./morph.py 
 ```
+
+Example (Original - Restored)
+<p>
+  <img src='zmic_fdu_noise.jpg'/>
+</p>
