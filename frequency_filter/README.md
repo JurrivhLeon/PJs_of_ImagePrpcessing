@@ -1,6 +1,5 @@
-Follow this instruction to reproduce the result of our experiment.
-Unzip the .zip file under the directory ${MY_DIR}, 
-and ensure you have installed libraries listed below in your running environment:
+# Project 4: Frequency Filter
+Follow this instruction to reproduce the result of my experiment. Make sure this repo is under the directory ${MY_DIR}, and ensure you have installed libraries listed below in your running environment:
 ```
 numpy==1.20.1
 opencv-python=4.6.0.66
