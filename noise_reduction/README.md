@@ -45,7 +45,7 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python opt_notch.py -i images/zelenskyy_interf.jpg
 ```
 
-Example
+Example: Original - Vanilla Notch - Optimal Notch
 <p>
   <img src='images/zelenskyy_interf.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_interf_denoised.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_interf_opt_denoised.jpg' width='280'/>
 </p>
