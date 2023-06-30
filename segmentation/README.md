@@ -41,5 +41,5 @@ python ./morph.py
 
 Example (Original - Restored)
 <p>
-  <img src='zmic_fdu_noise.jpg'/>
+  <img src='images/zmic_fdu_noise.jpg'/><img src='images/zmic_fdu_noise_repair.jpg'/>
 </p>
