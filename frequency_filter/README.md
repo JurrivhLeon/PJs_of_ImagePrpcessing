@@ -13,7 +13,7 @@ and check if the current working directory is ${MY_DIR}. If not, change it to th
 
 The file freq_filter.py includes the frequency filters needed in our experiments.
 
-
+## Smoothing
 To smooth an image, run this command:
 
 ```
@@ -26,13 +26,13 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python freq_smooth.py -i images/suomi.jpg -d 100 -r 100
 ```
 
-Example:
+Example (Lowpass filter: original-ideal-Gaussian)
 
 <p>
   <img src='images/suomi.jpg' width='300' /><img src='images/suomi_ideal_smoothed.jpg' width='300'/><img src='images/suomi_gaussian_smoothed.jpg' width='300'/>
 </p>
 
-
+## Sharpening
 To sharpen an image with Laplacian filter, run this command:
 
 ```
@@ -45,7 +45,14 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python freq_sharpen.py -i images/suomi.jpg -c 1 -d 100
 ```
 
+Example (Highpass filter: original-Laplacian-Gaussian)
 
+<p>
+  <img src='images/suomi.jpg' width='300' /><img src='images/suomi_laplacian_sharpened.jpg' width='300'/><img src='images/suomi_highboost_sharpend.jpg' width='300'/>
+</p>
+
+
+## Periodic Noise Reduction
 To reproduce the noise reduction result, run this command:
 
 ```
