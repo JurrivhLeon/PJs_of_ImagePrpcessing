@@ -6,8 +6,7 @@ vtk==9.2.2
 ```
 
 Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.),
-activate the needed environment,
-and check if the current working directory is ${MY_DIR}. If not, change it to this directory.
+activate the needed environment, and check if the current working directory is ```${MY_DIR}```. If not, change it to this directory.
 
 Run this command in the terminal:
 ```
