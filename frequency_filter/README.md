@@ -6,9 +6,8 @@ opencv-python=4.6.0.66
 matplotlib==3.3.4
 ```
 
-Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.),
-activate the needed environment,
-and check if the current working directory is ${MY_DIR}. If not, change it to this directory.
+Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.), activate the needed environment,
+and check if the current working directory is ```${MY_DIR}```. If not, change it to this directory.
 
 
 The file freq_filter.py includes the frequency filters needed in our experiments.
