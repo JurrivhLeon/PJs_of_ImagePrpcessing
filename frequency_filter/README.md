@@ -59,7 +59,7 @@ To reproduce the noise reduction result, run this command:
 python noise_reduction.py
 ```
 
-Example:
+Example (Original-Denoised)
 <p>
   <img src='images/Shepp-Logan.PNG' width='400'/><img src='images/Shepp-Logan_re.png' width='400'/>
 </p>
