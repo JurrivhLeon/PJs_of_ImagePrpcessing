@@ -32,7 +32,7 @@ Example
   <img src='images/zelenskyy.jpg' width='300'/><img src='images/zelenskyy_gn.jpg' width='300'/><img src='images/zelenskyy_pn.jpg' width='300'/>
 </p>
 <p>
-  <img src='images/zelenskyy_pn.jpg' width='300'/><img src='images/zelenskyy_prd.jpg' width='300'/><img src='images/zelenskyy_wn_1e+05.jpg' width='300'/>
+  <img src='images/zelenskyy_prd.jpg' width='300'/><img src='images/zelenskyy_wn_2.5e+04.jpg' width='300'/><img src='images/zelenskyy_wn_1e+05.jpg' width='300'/>
 </p>
 
 
