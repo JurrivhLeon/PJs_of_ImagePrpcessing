@@ -7,7 +7,7 @@ matplotlib==3.3.4
 ```
 
 Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.),
-and check if the current working directory is ${MY_DIR}. If not, change it to this directory.
+and check if the current working directory ```is ${MY_DIR}```. If not, change it to this directory.
 
 To smooth an image (using Gaussian & median filters), run this command:
 
