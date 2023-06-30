@@ -48,4 +48,7 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python opt_notch.py -i images/zelenskyy_interf.jpg
 ```
 
+Example
+
+
 Note that the parameters of notch pass filter need to be adjusted manually in line 99-100.
