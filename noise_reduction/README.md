@@ -32,7 +32,7 @@ Example
   <img src='images/zelenskyy_prd.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_wn_2.5e+04.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_wn_1e+05.jpg' width='280'/>
 </p>
 
-# Optimal Notch Filter
+## Optimal Notch Filter
 To run the optimal notch filter, run this command:
 
 ```
