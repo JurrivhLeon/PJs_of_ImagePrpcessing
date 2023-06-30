@@ -21,7 +21,7 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python smooth.py -i images/suomi.jpg -s 3 -v 9.0
 ```
 
-Example:<br>
+Example: (Original - Gaussian - Median) <br>
 
 <p align="center">
   <img src='images/suomi.jpg' width='300'/> &nbsp;&nbsp;&nbsp;
