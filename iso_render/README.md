@@ -1,5 +1,5 @@
 # Project 8: Isosurface Rendering
-Follow this instruction to reproduce the result of my experiment. Make sure this repo is under the directory ${MY_DIR}, and ensure you have installed libraries listed below in your running environment:
+Follow this instruction to reproduce the result of my experiment. Make sure this repo is under the directory ```${MY_DIR}```, and ensure you have installed libraries listed below in your running environment:
 ```
 nibabel==4.0.2
 vtk==9.2.2
