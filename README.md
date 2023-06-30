@@ -11,10 +11,13 @@ vtk==9.2.2
 ```
 
 There are 8 projects in total. Codes of project 2 to 8 are updated to this repo.<br>
+
 Project 2: Otsu Thresholding and Linear Interpolation <br>
 Project 3: Spatial Filters <br>
 Project 4: Frequency Filters <br>
 Project 5: Noise Reduction and Optimal Notch Filter <br>
 Project 6: Segmentation and Morphological Operations <br>
 Project 7: Free-Form Deformation <br>
-Project 8: Isosurface Rendering
+Project 8: Isosurface Rendering <br>
+
+Please refer to subfolders for details.
