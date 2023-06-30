@@ -29,7 +29,7 @@ python freq_smooth.py -i images/suomi.jpg -d 100 -r 100
 Example:
 
 <p>
-  <img src='suomi.jpg' width='300' /><img src='suomi_ideal_smoothed.jpg' width='300'/><img src='suomi_gaussian_smoothed.jpg' width='300'/>
+  <img src='images/suomi.jpg' width='300' /><img src='images/suomi_ideal_smoothed.jpg' width='300'/><img src='images/suomi_gaussian_smoothed.jpg' width='300'/>
 </p>
 
 
