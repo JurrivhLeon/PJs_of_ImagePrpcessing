@@ -32,7 +32,7 @@ Example: Original - Gaussian Noise - Pepper-Salt Noise - Periodic Noise - White 
   <img src='images/zelenskyy_prd.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_wn_2.5e+04.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_wn_1e+05.jpg' width='280'/>
 </p>
 
-## Optimal Notch Filter
+## Optimum Notch Filter
 To run the optimal notch filter, run this command:
 
 ```
@@ -45,7 +45,7 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python opt_notch.py -i images/zelenskyy_interf.jpg
 ```
 
-Example: Original - Vanilla Notch - Optimal Notch
+Example: Original - Vanilla Notch - Optimum Notch
 <p>
   <img src='images/zelenskyy_interf.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_interf_denoised.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/zelenskyy_interf_opt_denoised.jpg' width='280'/>
 </p>
