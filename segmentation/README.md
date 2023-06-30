@@ -21,7 +21,16 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python ./kmeans.py -i ./images/heart.jpg -k 3
 ```
 
-Note that the file also produces an thresholding result of Otsu algorithm.
+Note that the code also produces an thresholding result of Otsu algorithm.
+
+Example (Original - Otsu - 2 clusters - 3 clusters -4 clusters - 5 clusters)
+
+<p>
+  <img src='images/heart.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/heart_otsu.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/heart_seg_2.jpg' width='280'/>
+</p>
+<p>
+  <img src='images/heart_seg_3.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/heart_seg_4.jpg' width='280'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/heart_seg_5.jpg' width='280'/>
+</p>
 
 ## Morphological Operations
 To apply morphological operations on the image in my example, run this command:
