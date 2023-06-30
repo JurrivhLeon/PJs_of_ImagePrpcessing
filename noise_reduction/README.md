@@ -11,10 +11,7 @@ Now create a new terminal in an IDE (e.g. PyCharm, Visual Studio Code, etc.),
 activate the needed environment,
 and check if the current working directory is ${MY_DIR}. If not, change it to this directory.
 
-
-The file freq_filter.py includes the frequency filters needed in our experiments.
-
-
+## Noise Generation
 To add noise to an image, run this command:
 
 ```
@@ -35,7 +32,7 @@ Example
   <img src='images/zelenskyy_prd.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_wn_2.5e+04.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_wn_1e+05.jpg' width='280'/>
 </p>
 
-
+# Optimal Notch Filter
 To run the optimal notch filter, run this command:
 
 ```
@@ -49,6 +46,8 @@ python opt_notch.py -i images/zelenskyy_interf.jpg
 ```
 
 Example
-
+<p>
+  <img src='images/zelenskyy_interf.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_interf_denoised.jpg' width='280'/>&nbsp;&nbsp;<img src='images/zelenskyy_interf_opt_denoised.jpg' width='280'/>
+</p>
 
 Note that the parameters of notch pass filter need to be adjusted manually in line 99-100.
