@@ -16,3 +16,8 @@ python iso_render.py
 The first window shows the isosurface of data before smoothing.
 The second window shows the isosurface of data after smoothing.
 You can interact with the render result by click and drag the mouse over the window.
+
+Example: (iso = 150)
+<p>
+  <img src='images/iso_150.png' width='350'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/iso_150_smooth.png' width='350'/>
+</p>
