@@ -26,6 +26,12 @@ Change the content of ```${...}```, and content in brackets is optional. For exa
 python freq_smooth.py -i images/suomi.jpg -d 100 -r 100
 ```
 
+Example:
+
+<p>
+  <img src='suomi.jpg' width='300' /><img src='suomi_ideal_smoothed.jpg' width='300'/><img src='suomi_gaussian_smoothed.jpg' width='300'/>
+</p>
+
 
 To sharpen an image with Laplacian filter, run this command:
 
