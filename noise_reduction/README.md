@@ -29,8 +29,12 @@ python noise_gen.py -i images/zelenskyy.jpg
 
 Example
 <p>
-  <img src='images/zelenskyy.jpg'/>
+  <img src='images/zelenskyy.jpg' width='300'/><img src='images/zelenskyy_gn.jpg' width='300'/><img src='images/zelenskyy_pn.jpg' width='300'/>
 </p>
+<p>
+  <img src='images/zelenskyy_pn.jpg' width='300'/><img src='images/zelenskyy_prd.jpg' width='300'/><img src='images/zelenskyy_wn_1e+05.jpg' width='300'/>
+</p>
+
 
 To run the optimal notch filter, run this command:
 
